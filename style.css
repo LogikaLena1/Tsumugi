@@ -6,7 +6,7 @@ body {
 }
 
 header{
-     color: #180707;
+  
 position: relative;
 
 height: 100px;
@@ -67,7 +67,7 @@ padding:10px ;
     background: #F6CE61;
 }
 .text{
-color: #000;
+color: #180707;
 font-family: Roboto;f
 font-size: 30px;
 font-style: normal;
@@ -135,7 +135,7 @@ font-weight: 400;
 font-size: 24px;
 line-height: 28px;
 
-color: #000000;
+color: #180707;
 }
 .catalog div{
     display: flex;
@@ -146,6 +146,7 @@ color: #000000;
     display: flex;
     justify-content: space-between;
     flex-direction: column;
+    color: #180707;
 }
 .card_img{
     width: 300px;
